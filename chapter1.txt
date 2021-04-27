@@ -1,0 +1,16 @@
+Commands to be used in Git:-
+1)mkdir Story
+2)Notepad chapter1.txt
+3)dir and press Enter key.
+4)attrib -s -h -r /s /d *.* and hit Enter key
+5)dir and hit Enter key
+6)git status
+7)git add chapter1.txt  (to add files into the Staging area)
+8)
+9)
+10)
+11)
+12)
+13)
+14)
+15)
