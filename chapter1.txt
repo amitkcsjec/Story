@@ -20,10 +20,10 @@ Commands to be used in Git:-
 19)git log
 20)git remote add origin https://github.com/amitkcsjec/Story.git
 21)git push -u origin master (upload the local repo to the remote repo)
-22)
-23)
-24)
-25)
+22)git clone github-remote-url (to clone a remote repo into a local repo)
+23)git branch alien-plot (to create a new branch)
+24)git branch (to see the branches names into our repo)
+25)git checkout alien-plot (to switch to other branch)
 26)
 27)
 28)
