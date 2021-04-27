@@ -31,4 +31,5 @@ Commands to be used in Git:-
 30)git push -u origin alien-plot
 31)git branch
 32)git checkout master
-33)git merge alien-plot
+33)git merge alien-plot (to merge other branch to origin or master branch)
+34)git push origin master -u (to push all the changes to github)
