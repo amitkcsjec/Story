@@ -1,1 +1,2 @@
-It was the age of wisdom, it was the age of foolishness.
+Git Commands:-
+1)git checkout chapter3.txt (rollback chpater3 to the last version that was committed in our local repo)

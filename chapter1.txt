@@ -16,6 +16,16 @@ Commands to be used in Git:-
 15)git status
 16)git commit -m "complete chapter 2 and 3"
 17)git log
-18)
-19)
-20)
+18)git diff chapter3.txt
+19)git log
+20)git remote add origin https://github.com/amitkcsjec/Story.git
+21)git push -u origin master (upload the local repo to the remote repo)
+22)
+23)
+24)
+25)
+26)
+27)
+28)
+29)
+30)
