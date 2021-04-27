@@ -1,0 +1,3 @@
+Q1)How to open any file in cmd in Windows OS?
+Ans:-.\filename and hit Enter
+         e.g.:-.\chapter3.txt

@@ -6,11 +6,16 @@ Commands to be used in Git:-
 5)dir and hit Enter key
 6)git status
 7)git add chapter1.txt  (to add files into the Staging area)
-8)
-9)
-10)
-11)
-12)
-13)
-14)
-15)
+8)git status
+9)git commit -m "Complete Chapter 1" (By convention we should use present tense, which indicates that we are doing and committing it now.)
+10)git log (to see the commit made by us)
+11)Notepad Chapter2.txt
+12)Notepad Chapter3.txt
+13)git status
+14)git add .
+15)git status
+16)git commit -m "complete chapter 2 and 3"
+17)git log
+18)
+19)
+20)
