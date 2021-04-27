@@ -24,8 +24,11 @@ Commands to be used in Git:-
 23)git branch alien-plot (to create a new branch)
 24)git branch (to see the branches names into our repo)
 25)git checkout alien-plot (to switch to other branch)
-26)
-27)
-28)
-29)
-30)
+26)git status
+27)git add .
+28)git commit -m "updated chapter 1 git commands"
+29)git branch
+30)git push -u origin alien-plot
+31)git branch
+32)git checkout master
+33)git merge alien-plot
