@@ -12,7 +12,7 @@ Commands to be used in Git:-
 11)Notepad Chapter2.txt
 12)Notepad Chapter3.txt
 13)git status
-14)git add .
+14)git add . (to add all the files into the git Staging area)
 15)git status
 16)git commit -m "complete chapter 2 and 3"
 17)git log

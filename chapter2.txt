@@ -1,2 +1,7 @@
 Git Commands:-
 1)git checkout chapter3.txt (rollback chpater3 to the last version that was committed in our local repo)
+2)git rm --cached -r . (to remove all the files from the current directory into the Staging area)
+3)git status
+4)git add .
+5)git status
+6)git commit -m "Initial Commit"
